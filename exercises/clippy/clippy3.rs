@@ -3,8 +3,6 @@
 // Here's a couple more easy Clippy fixes, so you can see its utility.
 // No hints.
 
-// I AM NOT DONE
-
 use std::mem::swap;
 
 #[allow(unused_variables, unused_assignments)]
